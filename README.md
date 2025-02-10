@@ -1,2 +1,3 @@
-# MiniShell
-its my project from 42 schools, 42cursus MiniShell.
+# minishell
+
+minishell  --  42 Common Core cursus  --  42 Istanbul
